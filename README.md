@@ -7,3 +7,5 @@ Key Highlights:
 3. Implemented interactive pivot tables for a dynamic exploration of HR data, allowing users to filter and analyze information based on specific criteria.
 4. Created dynamic dashboards and predictive models in MS Excel for real-time attrition trend monitoring.
 5. Enhanced data visualization through charts and graphs to convey complex attrition insights in a clear and comprehensible manner.
+
+Project Link: https://www.canva.com/design/DAF76quUiIg/603D2SfknnXc0cKDXPShTw/edit?utm_content=DAF76quUiIg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
