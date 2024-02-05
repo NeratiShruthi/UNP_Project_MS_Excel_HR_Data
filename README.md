@@ -8,4 +8,6 @@ Key Highlights:
 4. Created dynamic dashboards and predictive models in MS Excel for real-time attrition trend monitoring.
 5. Enhanced data visualization through charts and graphs to convey complex attrition insights in a clear and comprehensible manner.
 
-Project Link: https://www.canva.com/design/DAF76quUiIg/603D2SfknnXc0cKDXPShTw/edit?utm_content=DAF76quUiIg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+PDF Link: https://drive.google.com/file/d/1G46Z5fJLnUk0VoNjMDh8ZCX-z_WiR9h2/view?usp=sharing
+
+Excel File: https://docs.google.com/spreadsheets/d/1LdXK0zE12yrCnhi2usBBe-TcKjbCflv_/edit?usp=sharing&ouid=109157103723295531705&rtpof=true&sd=true
